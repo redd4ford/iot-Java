@@ -1,0 +1,4 @@
+producerName, priceInUah,color,weightInKilograms,lengthInCentimeters,widthIncentimeters ,state,material,installationMethod,form
+China,50.25,white,320,200.0,100.0,NEW,QUARYL,BUILTIN,CORNER
+Ukraine,20.2,black,100,50.0,50.0,NEW,ACRYLIC,true,true,VERTICAL
+USA,70.75,black,80,50.0,50.0,SECONDHAND,ELECTRIC,30,true,false,5
