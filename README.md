@@ -16,6 +16,9 @@ this is a repo for all laboratory works I coded on Java as a part of my educatio
 ### lab 5 : writing information on objects to a CSV file
 > implement writing information on objects to a CSV file. you should use a new *Writer class* with *writeToFile()* method. use *try-with-resources*. also add *getHeaders()* and *toCSV()* methods to all your classes. call these methods from tests. edit the code with *PMD*, *SpotBugs*, and *Checkstyle plugins*, and in accordance with *Google style code convention*.
 
+### lab 6 : regular expressions
+> create a maven project. write a program that prints the sum of all positive numbers from a text. use a regular expression to find matching numbers. a user must be able to enter the text from the console. code should be tested with junit.
+
 ### lab 7 : migrating to spring boot and REST
 > create a *REST service* for one of the classes created in lab 3 with *CRUD operations (Get/Post/Put/Delete)* implementation. *GET* with id in URL-request should return specific object with this id; *GET* without any path variable should return all the objects. expand the class with id field. edit the code with *PMD*, *SpotBugs*, and *Checkstyle plugins*, and in accordance with *Google style code convention*.
 
